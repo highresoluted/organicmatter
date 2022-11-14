@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Organic Matter</title>
-    <link>https://highresoluted.github.io/organicmatter.io/</link>
-    <description>Recent content on Organic Matter</description>
+    <title>Sottovuoto</title>
+    <link>https://sottovuoto.github.io/me/</link>
+    <description>Recent content on Sottovuoto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 14 Nov 2022 17:52:40 +0100</lastBuildDate>
     
-	<atom:link href="https://highresoluted.github.io/organicmatter.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sottovuoto.github.io/me/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Watching the Snow</title>
-      <link>https://highresoluted.github.io/organicmatter.io/watching-the-snow/</link>
+      <link>https://sottovuoto.github.io/me/watching-the-snow/</link>
       <pubDate>Mon, 14 Nov 2022 17:52:40 +0100</pubDate>
       
-      <guid>https://highresoluted.github.io/organicmatter.io/watching-the-snow/</guid>
-      <description>&lt;p&gt;Is it possible to watch the snow?&lt;/p&gt;
+      <guid>https://sottovuoto.github.io/me/watching-the-snow/</guid>
+      <description>&lt;h4 id=&#34;theres-something-comforting-about-watching-the-snow-come-down-particularly-when-youre-warm-inside-at-the-window-looking-out&#34;&gt;There&amp;rsquo;s something comforting about watching the snow come down, particularly when you&amp;rsquo;re warm, inside, at the window, looking out.&lt;/h4&gt;
+&lt;p&gt;The sky is white, the ground goes white, even the trees trade in their black winter attire for delicate stripes of white. It gathers so slowly that you don&amp;rsquo;t see the change moment by moment, only notice it after a meditative while.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s an old poem (from my 20s) about watching my grandfather watching snow.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,10 +28,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://highresoluted.github.io/organicmatter.io/my-first-post/</link>
+      <link>https://sottovuoto.github.io/me/my-first-post/</link>
       <pubDate>Mon, 14 Nov 2022 00:57:41 +0100</pubDate>
       
-      <guid>https://highresoluted.github.io/organicmatter.io/my-first-post/</guid>
+      <guid>https://sottovuoto.github.io/me/my-first-post/</guid>
       <description></description>
     </item>
     
