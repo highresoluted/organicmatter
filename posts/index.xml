@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Organic Matter</title>
-    <link>https://highresoluted.github.io/organicmatter.io/tags/</link>
-    <description>Recent content in Tags on Organic Matter</description>
+    <title>Posts on Organic Matter</title>
+    <link>https://highresoluted.github.io/organicmatter.io/posts/</link>
+    <description>Recent content in Posts on Organic Matter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 14 Nov 2022 00:57:41 +0100</lastBuildDate>
     
-	<atom:link href="https://highresoluted.github.io/organicmatter.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://highresoluted.github.io/organicmatter.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
