@@ -18,7 +18,8 @@
       
       <guid>https://sottovuoto.github.io/me/hugo/</guid>
       <description>&lt;h4 id=&#34;so-this-website-is-also-my-first-experiment-with-hugo--github-pages-and-one-of-my-very-few-experiments-with-developing-overall&#34;&gt;So this website is also my first experiment with Hugo + Github pages. And one of my very few experiments with developing overall.&lt;/h4&gt;
-&lt;p&gt;I know. Lame. But what else would you expect from someon that has never touched the code, if not for a couple of lessons at school?&lt;/p&gt;
+&lt;p&gt;I know. Lame. But what else would you expect from someon that has never touched the code, if not for a couple of lessons at school? This website is only a place where I can park some thoughts and I wanted something simple and minimalistic, easy to deploy. I&amp;rsquo;ve read some suggestions online and I landed into this solution that involves Hugo as a static website generator and Github Pages as a hosting place. Ah, forgot to mention, I also wanted something to be free, so I don&amp;rsquo;t incur in the problem to have billings out of control. This solution satisfied me, in the end.
+The only flip-side is that, with this method, you have to generate a new website each time you deploy a new edit or post. This is not the most efficient way to update the website, but maybe I&amp;rsquo;m just unfamiliar with it.&lt;/p&gt;
 </description>
     </item>
     
